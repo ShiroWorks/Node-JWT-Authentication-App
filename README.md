@@ -1,6 +1,7 @@
 # Node-JWT-Authentication-App
 
 * Model–view–controller design pattern
+* MongoDB
 * Routes
 * User Model
 * Mongoose Validation
@@ -11,4 +12,4 @@
 * User Login
 * User Logout
 * Protected Routes
-* Conditional rendering
+* Conditional Rendering
